@@ -3,6 +3,9 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
@@ -520,7 +523,7 @@ fieldset[disabled] .btn-success.active {
 .text-custom {
   color: #1cbdbc;
 }
-h2 {
+h2, h3 {
   color: #5C5C5C;
 }
 .intro-text {
